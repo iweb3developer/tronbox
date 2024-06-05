@@ -1,7 +1,7 @@
 {
   "name": "tronbox",
   "namespace": "tronprotocol",
-  "version": "3.4.3",
+  "version": "3.4.4",
   "description": "TronBox - Simple development framework for Tron",
   "keywords": [
     "TronBox",
@@ -83,7 +83,7 @@
     "tronbox": "build/tronbox.js"
   },
   "engines": {
-    "node": ">=8.10.0"
+    "node": ">=18.0.0"
   },
   "repository": {
     "type": "git",
