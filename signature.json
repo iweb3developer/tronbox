@@ -390,7 +390,7 @@
           },
           {
             "path": "README.md",
-            "sha512": "34a39f7a6d5762eab502b5454516b76281a30ceb9695e45683f503b8f27f13639efd80b7782b81ea6e8444f03764004b1195bd6ddef16aa7a21113f187ca3676"
+            "sha512": "2faf3cad45558b341dfd0cfdc56342e9d00d701de18b4b9b05a222297feff8509ab38be33d719f676c180db871280acc6a6f87452357208effa9a54a3722e124"
           },
           {
             "path": "assets/TronBox-logo.png",
@@ -563,5 +563,5 @@
       }
     }
   ],
-  "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: OpenPGP.js v4.10.11\nComment: https://openpgpjs.org\n\nwsFzBAEBCAAGBQJmgoEMACEJEAEScGf7i0tYFiEEuL4l7hUU5AsLzHjPARJw\nZ/uLS1hEuQ/9HJ24BsfIM1Bb58MbpQSXA4ffoqS/Saik0wHUUHUJJqsVmhXJ\nm3srZ6NBylSAQRJ9F8Zqmj2y2IgLjxFktsVHVjrv6Nk5J9o8pU1MgBa/O2Qu\nfZUeSepLPNACXNhUGI1Mr2XNJQ+co2wSI9lfchUeRPAjYQuAX4KCrO6edH1I\nUbJnlpEbkDGu4BAQ9UWlnyyDsW8Hp7nCtd4XEtaKlaKAcJ+7WFBsuGMRdqvQ\nxgv9C/tvjocC3VqCEsRxLuxlY0F3xUgiEbTCtXVZeHbtQN5rYCqWWhhCyvDi\n7kD801q8u60+HRhyM0G79Bby2xQkOGKQZJzYidaty4fCuPrXGsz5U49U2RdX\nrjfLGbrE22W1Mnpq6Y5u7lcTBkt8roe2JQh4HI/Hl23leAnomIRPR0BJ5xGk\nvoTqsOARrrHieVl9SvKkuGniDFK9dvNoOdnWV6/ZwQ5JOaiIQfDFEvmo2D0+\nySsTacSxc+n9fij7gH/hv1A7IaW4z31JickAdgX8ZrxIGap/kdqfiPq5K3yx\nK64JTsVYQErUwhODwlZhC66bVEod+GQkol+WQqh0ipC2g1HxLB5kqdxyJXLx\n+N2fM1kcNKE1KFP1q+KzkJeuBtpcQDh2G7VX9ISXI5XbF3PCkTPCJufKyZA1\nEcFYGiBtsEbTv0CGjmruSPW0sZmODSVDvAA=\n=IbDg\n-----END PGP SIGNATURE-----\n"
+  "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: OpenPGP.js v4.10.11\nComment: https://openpgpjs.org\n\nwsFzBAEBCAAGBQJmjKDVACEJEAEScGf7i0tYFiEEuL4l7hUU5AsLzHjPARJw\nZ/uLS1g4Gw//WZN8cXl1nVwwQ7c8v5OZ+p7GA1KMtSk6NJ1Ne2QgL4QL7lPC\nmwKwAuuqT3K47piXl5rQNKCSGoVDUIXA4ykr2UjcYZL4A9ghUdIcEPBJLIer\nXc8Tqmv2mRvu6fg8CBPDfsvuXeXbNNGBTV8LNq3TSgJJXAxUdBeAqpZ9Pg2h\nJMIUy4CrBR8/tkm56FTfhTLC8eNsgAfpqVcrWTUYRup3ao12O3VqpI3SxIzu\n64z7FD/39NDe6R2VFJtpX/TyDAtmt+eUJA5T4MgWseahL86e5Qnt7ojTMCrT\n3+VEkItDXiMfKZGkjSYBq7s1BuNR0BqxklecsWkXMDzTLlT4Rpci7n+1GUkS\nbJ1QzfsrCvAhm8KjdWUKtf394XtTJ2EVYfhlsxPD80+YWh/MA+BIxCgf7sHZ\n34jbqdGd9Z18JSYJd+eV9hbfhxdKIZ3IzeQQEh2/u8uNxdjgBXsAn4TuLl3g\nM7FsecwO++BIKmGRWqAOuy804SUDrYlPCPmJGryROz+/evSWFYVGPDJvUjAf\n70a8DYjCGRMdUuOSAMMky5wwNyeEl8kas5dSn03ZA61AWM7/JRLAvo469Fu6\neWwM4TgnM+lIctDA9UL0iRp38Vh3//D+L5qhl8gOeJqwM40lVmLq++Ukk/WD\ngpmrIkxBUtxcADfnoAo1xvRR+mOkJs9LCeg=\n=WlMf\n-----END PGP SIGNATURE-----\n"
 }
